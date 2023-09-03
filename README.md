@@ -1,6 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on managing IT operations as the IT Manager at Isfahan Public Transportation Company.<br>👯 I’m looking to collaborate on open-source projects related to web development, especially those involving C#, PHP, JavaScript, and Laravel.<br>🤝 I’m looking for help with optimizing database queries in a Laravel-based project. Any guidance or suggestions are greatly appreciated.<br>🌱 I’m currently learning React and the Tailwind CSS<br>💬 Ask me about development, C#, PHP, JavaScript, Laravel<br>⚡ Fun fact: I have a deep passion for science fiction movies and TV series, and I'm always up for discussing the latest developments in the genre. When I'm not coding, you'll often find me at the gym, pursuing my passion for bodybuilding, or on the field playing football. But above all, I'm truly passionate about my family – I'm head over heels for my loving wife and son, and they are my greatest source of joy and inspiration.
+<div align="center">
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">Hello! I'm[ Amir Rajabzadeh](https://github.com/amirrajabzadeh), a full-stack developer 👨‍💻 with over 6 years of experience in software and web development.   🚀</div>  
+  
+
+- 🔭 I’m currently working on managing IT operations as the IT Manager at Isfahan Public Transportation Company.  
+  
+
+- 🌱 I’m currently learning React and the Tailwind CSS  
+  
+
+- ❓ Ask me about development, C#, PHP, JavaScript, Laravel  
+  
+
+- ⚡ Fun fact: An Intriguing Reality: I wholeheartedly immerse myself in the world of stories and science fiction films, constantly engaging in discussions and exchanges about the allure of this genre. When I step away from coding, you'll predominantly find me at the gym, savoring the joys of bodybuilding, or on the football field, joining in lively matches with my friends. Yet, above all, my boundless affection is reserved for my family. I am deeply devoted to my wife, Nazan, and my son, Ryan, who are not only the greatest source of happiness but also my endless wellspring of inspiration and spirit.  
+  
+
+<br/>  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir.irdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-rajabzadeh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@a.rajabzadeh66) 
